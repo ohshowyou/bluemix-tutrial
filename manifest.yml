@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 128M
   instances: 1
-  domain: au-syd.mybluemix.net
+  domain: api.ng.bluemix.net
   name: myFlask
   host: myFlask
   disk_quota: 1024M
